@@ -1,0 +1,7 @@
+{
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.9",
+        "symfony/http-foundation": "^4.3",
+        "illuminate/database": "^5.8"
+    }
+}

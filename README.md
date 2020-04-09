@@ -16,4 +16,4 @@
 
 ## License 
 
-The MIT License (MIT). Please see [License File](https://github.com/renatoribeiromachado/sendPhpMailler/blob/master/LICENSE) for more information.
+The MIT License (MIT). Please see [License File](https://github.com/renatoribeiromachado/Spreadsheet/blob/master/LICENSE) for more information.

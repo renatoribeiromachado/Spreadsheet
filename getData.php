@@ -6,11 +6,11 @@
     $capsule->addConnection([
         'driver'    => 'mysql',
         'host'      => 'localhost',
-        'database'  => 'acessoho_acesso',
-        'username'  => 'acessoho_acesso',
-        'password'  => 'acessoshow40!@',
-        'charset'   => 'utf8',
-        'collation' => 'utf8_unicode_ci',
+        'database'  => '',
+        'username'  => '',
+        'password'  => '',
+        'charset'   => '',
+        'collation' => '',
         'prefix'    => '',
     ]); 
     $capsule->setAsGlobal();

@@ -8,8 +8,6 @@
         <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet" type="text/css"/>
         <link href="css/bootstrap.css" rel="stylesheet" type="text/css"/>
         <link href="css/ui-lightness/jquery-ui-1.10.1.custom.min.css" rel="stylesheet" type="text/css"/>
-        <link href="css/reset.css" rel="stylesheet"/>
-        <link href="css/admin.css" rel="stylesheet"/>
 
         <title>Excel com PHP - utilizando spreedsheet</title>  
         <!--[if lt IE 9]>
